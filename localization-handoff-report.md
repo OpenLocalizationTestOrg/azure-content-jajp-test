@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\azure-api-management-certs.md](https://github.com/OpenLocalizationTest/azuretest/blob/a7db8d8778db72c61bea7d2bab926d027d9a9871/articles/azure-api-management-certs.md) | HandedOffSuccess | [Details](#bbbceb7f21402e47f92189d99d9eb90fddcc07686314)
+ [articles\best-practices-api-implementation.md](https://github.com/OpenLocalizationTest/azuretest/blob/3cb97ca7fe4d527bfc1f8cb11ec9f62f032f640d/articles/best-practices-api-implementation.md) | HandedOffSuccess | [Details](#58b63521d2b6e9d8ee07e80876fd02b0382b742d6618)
 
 ## Item Details
-##### <a name='bbbceb7f21402e47f92189d99d9eb90fddcc07686314'></a> Source: [articles\azure-api-management-certs.md](https://github.com/OpenLocalizationTest/azuretest/blob/a7db8d8778db72c61bea7d2bab926d027d9a9871/articles/azure-api-management-certs.md)
+##### <a name='58b63521d2b6e9d8ee07e80876fd02b0382b742d6618'></a> Source: [articles\best-practices-api-implementation.md](https://github.com/OpenLocalizationTest/azuretest/blob/3cb97ca7fe4d527bfc1f8cb11ec9f62f032f640d/articles/best-practices-api-implementation.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [azure-api-management-certs.dbd83cddfbd8143d017ceb1a0ccea9a4eb7b770b.ja-jp.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/a4a9f4964a3bed187626e4dd07b1ebee8789e95c/ol-handoff/OpenLocalizationTestOrg/azure-content-jajp-test/master/ht/azure-api-management-certs.dbd83cddfbd8143d017ceb1a0ccea9a4eb7b770b.ja-jp.xlf)
-* Handoff Datetime: 2016-04-29 12:52:49
+* Handoff File: [best-practices-api-implementation.e617d82a7332e0d8b4748ea743b8378a4f719d40.ja-jp.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/9a926f55f43256094529e4f625c92a579ac1e091/ol-handoff/OpenLocalizationTestOrg/azure-content-jajp-test/master/ht/best-practices-api-implementation.e617d82a7332e0d8b4748ea743b8378a4f719d40.ja-jp.xlf)
+* Handoff Datetime: 2016-05-09 01:30:24
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
